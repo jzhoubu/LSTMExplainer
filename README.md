@@ -16,6 +16,6 @@
             * **SHAP values output**: (1, 5, 60, 4)
             * **shap_values[0][1] shape**: (60, 4) --> (time_stamps, features)
 
-- **2019/02/03**
+- **2019/02/02**
     + Meeting at everning
 
