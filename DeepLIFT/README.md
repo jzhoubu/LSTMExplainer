@@ -16,7 +16,7 @@
 主要介绍Eq.1 **summation-to-delta**。后半段阐述了`C△x△t`适用的special case。
 
 ### 3.2 Multipliers and the Chain Rule
-定义了Multipliers及证明了它的链式推导
+定义了Multipliers及证明了它的链式推导\\
 **疑惑**：这里已经开始做性质上的证明了，但没感觉到作者深入阐述DeepLift的实质上的东西。作者前面定义了C，以及一些假设的性质，但没有讲C是怎么计算的。只在intro那里讲过difference-from-reference的计算只需要一次反传，所以猜测difference-from-reference的计算其实就是output对于x的导数？ 
 
 ### 3.3 Defining the reference
