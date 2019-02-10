@@ -13,7 +13,7 @@
 
 ## 3. The DeepLIFT Method
 ### 3.1 DeepLIFT Philosophy
-主要介绍Eq.1 **summation-to-delta**。后半段阐述了`$C△x△t`的属性在某些情况下也适用。
+主要介绍Eq.1 **summation-to-delta**。后半段阐述了`C△x△t`适用的special case。
 
 ### 3.2 Multipliers and the Chain Rule
 定义了Multipliers及证明了它的链式推导
